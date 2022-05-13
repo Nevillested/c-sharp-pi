@@ -1,0 +1,7 @@
+C:\Users\Weabo\source\repos\c sharp pi\bin\Debug\c sharp pi.exe.config
+C:\Users\Weabo\source\repos\c sharp pi\bin\Debug\c sharp pi.exe
+C:\Users\Weabo\source\repos\c sharp pi\bin\Debug\c sharp pi.pdb
+C:\Users\Weabo\source\repos\c sharp pi\obj\Debug\c sharp pi.csprojAssemblyReference.cache
+C:\Users\Weabo\source\repos\c sharp pi\obj\Debug\c sharp pi.csproj.CoreCompileInputs.cache
+C:\Users\Weabo\source\repos\c sharp pi\obj\Debug\c sharp pi.exe
+C:\Users\Weabo\source\repos\c sharp pi\obj\Debug\c sharp pi.pdb
